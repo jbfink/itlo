@@ -1,17 +1,17 @@
 main:
-  name: Main Library
+  name: Central Library
   hours:
     Monday: ['0900', '2100']
     Tuesday: ['0900', '2100']
-    Wednesday: ['0900', '1800']
+    Wednesday: ['0900', '2100']
     Thursday: ['0900', '2100']
-    Friday: ['1400', '1800']
-    Saturday: ['0930', '1800']
-    Sunday: ['1400', '1800']
+    Friday: ['0900', '1800']
+    Saturday: ['0900', '1700']
+    Sunday: []
   address:
-    street: 300 North Roxboro St
-    zip: 27701
-  phone: 919-560-0100
+    street: 55 York Boulevard
+    zip: L8N 4E4
+  phone: 905-546-3200
 east:
   name: East Regional Library
   hours:
